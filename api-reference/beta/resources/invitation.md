@@ -40,7 +40,7 @@ Here is a JSON representation of the resource
 ```json
 {
   "invitedUserDisplayName": "string",
-  "inviteUserEmailAddress": "string",
+  "invitedUserEmailAddress": "string",
   "invitedUserMessageInfo": {"@odata.type": "microsoft.graph.InvitedUserMessageInfo"},
   "sendInvitationMessage": false,
   "inviteRedirectUrl": "string",
